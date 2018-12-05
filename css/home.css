@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+body {
+    background: none;
+    background-color: rgba(243, 243, 243, 1);
+}
+
+a {
+    color: #00a1e4;
+}
+
+.hero-img img{
+    margin-top: 3.95rem;
+    position: relative;
+    width: 100vw;
+    z-index: -10;
+    /* background: url(../img/exterior/building.jpg); */
+    /* background-size: 100vw; */
+    /* background-attachment: fixed; */
+    /* background-position: center center; */
+    /* background-repeat: no-repeat; */
+    /* clear: both; */
+}
+
+.hero-img h1 {
+    animation-duration: 2s;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    text-align: center;
+    margin: 0 0;
+    color: #f3f3f3;
+    font-weight: 100;
+    font-size: 3vw;
+    margin-top: 5rem;
+    margin-left: 9%;
+    text-shadow: 1px 1px 10px #222222;
+}
+
+.hero-img h1 span {
+    animation-duration: 3s;
+    font-family: 'Cookie';
+    font-size: 10vw;
+    text-shadow: 1px 1px 10px #222222;
+}
+
+.home-content {
+    text-align: center;
+}
+
+.tagline {
+    width: 75vw;
+    margin: auto;
+    padding: 3rem 0;
+    text-align: center;
+    font-weight: 200;
+}
+
+.spacer {
+    width: 75vw;
+    height: 1px;
+    background: black;
+    margin: auto;
+    margin-bottom: 3rem;
+}
+
+.button-container {
+    padding: 5rem;
+    margin-top: 2rem;
+}
+
+.button-container button {
+    background: #c14565;
+    color: white;
+    padding: 1rem;
+    border-radius: 3px;
+}
