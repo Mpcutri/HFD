@@ -23,6 +23,10 @@ a {
     padding: 2rem;
 }
 
+.contact-container i {
+    color: black !important;
+}
+
 .contact-container h1 {
     transform: translate(0,5rem);
     padding-bottom: 7rem;
