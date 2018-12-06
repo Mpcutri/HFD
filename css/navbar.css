@@ -164,7 +164,7 @@ nav a:hover {
 @media screen and (max-width: 812px) {
   #apple {
     width: 4rem;
-    transform: translate(2rem, 0rem);
+    transform: translate(2rem, -0.75rem);
   }
   nav li:hover {
     background: rgb(220, 220, 220)
