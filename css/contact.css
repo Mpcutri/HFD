@@ -6,6 +6,10 @@ a {
     color: #00a1e4;
 }
 
+.blue {
+    color: #00a1e4 !important;
+}
+
 .btn {
     background: #00a1e4;
 }
