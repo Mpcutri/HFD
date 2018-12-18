@@ -101,11 +101,11 @@ main {
 	color: #4c33f7;
 }
 
-@media screen and (min-width: 1012px) {
+/* @media screen and (min-width: 1012px) {
 	.centered-image {
 		left: 36.85% !important;
 	}
-}
+} */
 /* ==============
 	Navbar
 ============== */
